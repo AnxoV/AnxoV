@@ -31,6 +31,7 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 [![Atari Breakout Web](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=AtariBreakOut_Web)](https://github.com/AnxoV/AtariBreakOut_Web)
 [![Whos That Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=WhosThatPokemon)](https://github.com/AnxoV/WhosThatPokemon)
 [![Java ASCII Board Game](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=JavaBoardGame)](https://github.com/AnxoV/JavaBoardGame)
+[![CodeWars Katas](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Katas)](https://github.com/AnxoV/Katas)
 [![ProgramaMe Contest](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=ProgramaMe)](https://github.com/AnxoV/ProgramaMe)
 <br>
 <sub>El resto están en progreso :p</sub>
