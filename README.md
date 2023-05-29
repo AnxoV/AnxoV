@@ -51,4 +51,6 @@ Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un 
 ### 🐍 Una serpiente comiéndose mis commits
 [![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
+[![Dinosaur](assets/gifs/Dinosaur.gif)](https://en.wikipedia.org/wiki/Dinosaur_Game)
+
 [![Made with ❤️](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://dev.to/envoy_/150-badges-for-github-pnk)
