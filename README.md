@@ -7,23 +7,32 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 ### ¿Qué hago?
 * 💼 Estudiando un ciclo superior de Desarrollo de Aplicaciones Web
 
-### Tecnologías que utilizo
-#### Front end
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-#### Back end
-[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
-#### También he trabajado con
-[![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
-#### Resumen
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary><h3>💻 Tecnologías que utilizo</h3></summary>
 
-### Logros
+* #### 📄 Front end
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+* #### 📂 Back end
+[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
+* #### También he trabajado con
+[![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
+* #### Resumen
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
+<details>
+  <summary><h3>🏆 Logros</h3></summary>
+
 [![Profile trophies](https://github-profile-trophy.vercel.app/?username=AnxoV&title=Commits,PullRequest,Repositories,Issues,Reviews,Stars&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
 
 ### 🐍 Una serpiente comiéndose mis commits
 [![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
-### Mis proyectos destacados
+<details>
+  <summary><h3>Mis proyectos destacados</h3></summary>
+
 [![Web platformer](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Plataformas)](https://github.com/AnxoV/Plataformas)
 [![Collision simulator](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Colisiones)](https://github.com/AnxoV/Colisiones)
 [![Tank Game](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Tanque)](https://github.com/AnxoV/Tanque)
@@ -33,5 +42,7 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 [![Java ASCII Board Game](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=JavaBoardGame)](https://github.com/AnxoV/JavaBoardGame)
 [![CodeWars Katas](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Katas)](https://github.com/AnxoV/Katas)
 [![ProgramaMe Contest](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=ProgramaMe)](https://github.com/AnxoV/ProgramaMe)
-<br>
-<sub>El resto están en progreso :p</sub>
+ 
+🚧 El resto están en progreso 🚧
+  
+</details>
