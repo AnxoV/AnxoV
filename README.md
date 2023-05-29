@@ -16,6 +16,8 @@ Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un 
 | --------- | -------- | --------- |
 | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev) |
 
+[![Ubuntu enjoyer](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+
 ### 📊 Resumen
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,11 +25,8 @@ Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un 
 | --------- | --------------- |
 | [![Profile trophies](https://github-profile-trophy.vercel.app/?username=AnxoV&title=Commits,PullRequest,Repositories,Issues,Reviews,Stars&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnxoV&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 
-### 🐍 Una serpiente comiéndose mis commits
-[![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
-
 <details>
-  <summary><h3>Mis proyectos destacados</h3></summary>
+  <summary><h3>Proyectos</h3></summary>
 
 [![Web platformer](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Plataformas)](https://github.com/AnxoV/Plataformas)
 [![Collision simulator](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Colisiones)](https://github.com/AnxoV/Colisiones)
@@ -42,5 +41,10 @@ Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un 
 **🚧 El resto están en progreso 🚧**
   
 </details>
+
+## Miscelánea
+
+### 🐍 Una serpiente comiéndose mis commits
+[![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 [![Made with ❤️](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://dev.to/envoy_/150-badges-for-github-pnk)
