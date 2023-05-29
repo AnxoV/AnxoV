@@ -4,30 +4,20 @@
 Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un sumario de mi trabajo y conocimientos.
 
 ## Sobre mi
-### ¿Qué hago?
-* 💼 Estudiando un ciclo superior de Desarrollo de Aplicaciones Web
+### 💼 ¿Qué hago?
+* Estudiando un ciclo superior de Desarrollo de Aplicaciones Web
 
-<details>
-  <summary><h3>💻 Tecnologías</h3></summary>
+### 💻 ¿Con qué trabajo?
+| Front End | Back End | Lenguajes |
+| --------- | -------- | --------- |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev) |
 
-* #### 📄 Front end
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-* #### 📂 Back end
-[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
-* #### ⚙️ También he trabajado con
-[![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
-* #### 📊 Resumen
+### 📊 Resumen
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</details>
-<details>
-  <summary><h3>🏆 Logros</h3></summary>
 
-[![Profile trophies](https://github-profile-trophy.vercel.app/?username=AnxoV&title=Commits,PullRequest,Repositories,Issues,Reviews,Stars&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnxoV&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</details>
+| 🏆 Logros | 📈 Estadísticas |
+| --------- | --------------- |
+| [![Profile trophies](https://github-profile-trophy.vercel.app/?username=AnxoV&title=Commits,PullRequest,Repositories,Issues,Reviews,Stars&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnxoV&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 
 ### 🐍 Una serpiente comiéndose mis commits
 [![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
