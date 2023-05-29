@@ -4,7 +4,7 @@
 # Hola <img alt="Wave hand" src="assets/gifs/Hi.gif" width="30">, soy Anxo <img alt="Minecraft parrot dancing" src="assets/gifs/MinecraftParrot.gif" width="40">
 Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un sumario de mi trabajo y conocimientos.
 
-## Sobre mi
+## Sobre mí
 
 <img alt="Coding Cat" align="right" src="assets/gifs/CodingCat.gif">
 
