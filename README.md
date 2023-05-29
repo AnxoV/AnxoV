@@ -5,6 +5,9 @@
 Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un sumario de mi trabajo y conocimientos.
 
 ## Sobre mi
+
+<img alt="Coding Cat" align="right" src="assets/gifs/CodingCat.gif">
+
 ### 💼 ¿Qué hago?
 * Estudiando un ciclo superior de Desarrollo de Aplicaciones Web
 
