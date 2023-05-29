@@ -16,9 +16,9 @@ Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un 
 | --------- | -------- | --------- |
 | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev) |
 
-[![Ubuntu enjoyer](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![Git commiter](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Ubuntu enjoyer](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Git commiter](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com)
 
 ### 📊 Resumen
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
