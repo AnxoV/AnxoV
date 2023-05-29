@@ -8,7 +8,7 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 * 💼 Estudiando un ciclo superior de Desarrollo de Aplicaciones Web
 
 <details>
-  <summary><h3>💻 Tecnologías que utilizo</h3></summary>
+  <summary><h3>💻 Tecnologías</h3></summary>
 
 * #### 📄 Front end
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
