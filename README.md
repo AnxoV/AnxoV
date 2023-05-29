@@ -25,6 +25,8 @@ Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un 
 | --------- | --------------- |
 | [![Profile trophies](https://github-profile-trophy.vercel.app/?username=AnxoV&title=Commits,PullRequest,Repositories,Issues,Reviews,Stars&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnxoV&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 
+[![CodeWars profile](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/AnxoV)
+
 <details>
   <summary><h3>Proyectos</h3></summary>
 
