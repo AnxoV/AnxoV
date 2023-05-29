@@ -35,6 +35,6 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 [![CodeWars Katas](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Katas)](https://github.com/AnxoV/Katas)
 [![ProgramaMe Contest](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=ProgramaMe)](https://github.com/AnxoV/ProgramaMe)
  
-🚧 El resto están en progreso 🚧
+**🚧 El resto están en progreso 🚧**
   
 </details>
