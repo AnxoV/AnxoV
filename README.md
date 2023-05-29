@@ -22,3 +22,13 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 
 ### 🐍 Una serpiente comiéndose mis commits
 [![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+
+### Mis proyectos destacados
+[![Web platformer](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Plataformas)](https://github.com/AnxoV/Plataformas)
+[![Collision simulator](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Colisiones)](https://github.com/AnxoV/Colisiones)
+[![Alien invasion](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=JuegoMarcianos)](https://github.com/AnxoV/JuegoMarcianos)
+[![Atari Breakout Web](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=AtariBreakOut_Web)](https://github.com/AnxoV/AtariBreakOut_Web)
+[![Whos That Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=WhosThatPokemon)](https://github.com/AnxoV/WhosThatPokemon)
+[![Java ASCII Board Game](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=JavaBoardGame)](https://github.com/AnxoV/JavaBoardGame)
+<br>
+<sub>El resto están en progreso :p</sub>
