@@ -2,7 +2,7 @@
 [![Awesome](https://badgen.net/badge/icon/Fantástico?icon=awesome&label)](https://badgen.net)
 
 # Hola <img alt="Wave hand" src="assets/gifs/Hi.gif" width="30">, soy Anxo <img alt="Minecraft parrot dancing" src="assets/gifs/MinecraftParrot.gif" width="40">
-Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un sumario de mi trabajo y conocimientos.
+Grata bienvenida, tú; quién busca conocimiento. Ante ti muestro mi perfil, un sumario de mi trabajo y conocimientos.
 
 ## Sobre mi
 ### 💼 ¿Qué hago?
