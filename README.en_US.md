@@ -1,5 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AnxoV&color=blueviolet&label=Views)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Awesome](https://badgen.net/badge/icon/Fantástico?icon=awesome&label)](https://badgen.net)
+[![Awesome](https://badgen.net/badge/icon/Awesome?icon=awesome&label)](https://badgen.net)
 
 <table align="right">
  <tr><td><a href="https://github.com/AnxoV/AnxoV/blob/output/README.md"><img src="assets/icons/flags/es_ES.png" alt="Spanish flag" width="16px"> Spanish</a></td></tr>
