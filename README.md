@@ -4,6 +4,11 @@
 # Hola <img alt="Wave hand" src="assets/gifs/Hi.gif" width="30">, soy Anxo <img alt="Minecraft parrot dancing" src="assets/gifs/MinecraftParrot.gif" width="40">
 Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un sumario de mi trabajo y conocimientos.
 
+<table align="right">
+ <tr><td><a href="https://github.com/AnxoV/AnxoV/blob/main/README.md"><img src="assets/icons/flags/es_ES.png" alt="Spanish flag" width="17px"> Español</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.gl-ES.md"><img src="assets/icons/flags/gl_ES.png" alt="Galician flag" width="17px">  Gallego</a></td></tr>
+</table>
+
 ## Sobre mí
 
 <img alt="Coding Cat" align="right" src="assets/gifs/CodingCat.gif">
