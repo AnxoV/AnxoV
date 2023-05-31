@@ -2,8 +2,9 @@
 [![Awesome](https://badgen.net/badge/icon/Fantástico?icon=awesome&label)](https://badgen.net)
 
 <table align="right">
- <tr><td><a href="https://github.com/AnxoV/AnxoV/blob/output/README.md"><img src="assets/icons/flags/es_ES.png" alt="Spanish flag" width="17px"> Español</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/output/README.gl-ES.md"><img src="assets/icons/flags/gl_ES.png" alt="Galician flag" width="17px">  Galego</a></td></tr>
+ <tr><td><a href="https://github.com/AnxoV/AnxoV/blob/output/README.md"><img src="assets/icons/flags/es_ES.png" alt="Spanish flag" width="16px"> Español</a></td></tr>
+ <tr><td><a href="https://github.com/AnxoV/AnxoV/blob/output/README.gl_ES.md"><img src="assets/icons/flags/gl_ES.png" alt="Galician flag" width="16px">  Galego</a></td></tr>
+ <tr><td><a href="https://github.com/AnxoV/AnxoV/blob/output/README.en_US.md"><img src="assets/icons/flags/en_US.png" alt="United States flag" width="16px">  Inglés</a></td></tr>
 </table>
 
 # Ola <img alt="Wave hand" src="assets/gifs/Hi.gif" width="30">, son Anxo <img alt="Minecraft parrot dancing" src="assets/gifs/MinecraftParrot.gif" width="40">
