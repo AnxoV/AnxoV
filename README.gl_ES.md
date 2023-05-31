@@ -3,21 +3,21 @@
 
 <table align="right">
  <tr><td><a href="https://github.com/AnxoV/AnxoV/blob/output/README.md"><img src="assets/icons/flags/es_ES.png" alt="Spanish flag" width="17px"> Español</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/output/README.gl-ES.md"><img src="assets/icons/flags/gl_ES.png" alt="Galician flag" width="17px">  Gallego</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/output/README.gl-ES.md"><img src="assets/icons/flags/gl_ES.png" alt="Galician flag" width="17px">  Galego</a></td></tr>
 </table>
 
-# Hola <img alt="Wave hand" src="assets/gifs/Hi.gif" width="30">, soy Anxo <img alt="Minecraft parrot dancing" src="assets/gifs/MinecraftParrot.gif" width="40">
-Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un sumario de mi trabajo y conocimientos.
+# Ola <img alt="Wave hand" src="assets/gifs/Hi.gif" width="30">, son Anxo <img alt="Minecraft parrot dancing" src="assets/gifs/MinecraftParrot.gif" width="40">
+Grata benvida, tú, quén busca coñecemento. Ante ti móstrote o meu perfil, un sumario do meu traballo e entendemento.
 
-## Sobre mí
+## Sobre min
 
 <img alt="Coding Cat" align="right" src="assets/gifs/CodingCat.gif">
 
-### 💼 ¿Qué hago?
-* Estudiando un ciclo superior de Desarrollo de Aplicaciones Web
+### 💼 Qué fago?
+* Estudando un ciclo superior de Desenvolvemento de Aplicacións Web
 
-### 💻 ¿Con qué trabajo?
-| Front End | Back End | Lenguajes |
+### 💻 Con qué traballo?
+| Front End | Back End | Lenguaxes |
 | --------- | -------- | --------- |
 | [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev) |
 
@@ -25,17 +25,17 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 [![Git commiter](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com)
 
-### 📊 Resumen
+### 📊 Resumo
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-| 🏆 Logros | 📈 Estadísticas |
+| 🏆 Logros | 📈 Estatísticas |
 | --------- | --------------- |
 | [![Profile trophies](https://github-profile-trophy.vercel.app/?username=AnxoV&title=Commits,PullRequest,Repositories,Issues,Reviews,Stars&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnxoV&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 
 [![CodeWars profile](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/AnxoV)
 
 <details>
-  <summary><h3>Proyectos</h3></summary>
+  <summary><h3>Proxectos</h3></summary>
 
 [![Web platformer](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Plataformas)](https://github.com/AnxoV/Plataformas)
 [![Collision simulator](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Colisiones)](https://github.com/AnxoV/Colisiones)
@@ -47,13 +47,13 @@ Grata bienvenida, tú, quién busca conocimiento. Ante ti muestro mi perfil, un 
 [![CodeWars Katas](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=Katas)](https://github.com/AnxoV/Katas)
 [![ProgramaMe Contest](https://github-readme-stats.vercel.app/api/pin/?username=AnxoV&repo=ProgramaMe)](https://github.com/AnxoV/ProgramaMe)
  
-**🚧 El resto están en progreso 🚧**
+**🚧 O resto están construíndose 🚧**
   
 </details>
 
 ## Miscelánea
 
-### 🐍 Una serpiente comiéndose mis commits
+### 🐍 Unha serpe coméndose os meus commits
 [![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 [![Dinosaur](assets/gifs/Dinosaur.gif)](https://en.wikipedia.org/wiki/Dinosaur_Game)
