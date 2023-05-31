@@ -1,4 +1,4 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=AnxoV&color=blueviolet&label=Views)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Profile Views](https://komarev.com/ghpvc/?username=AnxoV&color=blueviolet&label=Vistas)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Awesome](https://badgen.net/badge/icon/Fantástico?icon=awesome&label)](https://badgen.net)
 
 <table align="right">
