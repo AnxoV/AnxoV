@@ -10,7 +10,7 @@
 # Hi <img alt="Wave hand" src="assets/gifs/Hi.gif" width="30">, I'm Anxo <img alt="Minecraft parrot dancing" src="assets/gifs/MinecraftParrot.gif" width="40">
 Great welcome, you, who seeks knowledge. Before you I reveal my profile, a humble summary of my work and comprehension.
 
-## Sobre mí
+## About me
 
 <img alt="Coding Cat" align="right" src="assets/gifs/CodingCat.gif">
 
