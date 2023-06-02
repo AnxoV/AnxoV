@@ -1,4 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AnxoV&color=blueviolet&label=Visitas)](https://github.com/antonkomarev/github-profile-views-counter)
+[![GitHub last commit](https://img.shields.io/github/last-commit/AnxoV/AnxoV)](https://shields.io/category/activity)
 [![Awesome](https://badgen.net/badge/icon/Fantástico?icon=awesome&label)](https://badgen.net)
 
 <table align="right">
