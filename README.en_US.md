@@ -58,6 +58,10 @@ Greetings, you, who seeks knowledge. Before you I reveal my profile, a humble su
 ### 🐍 A snake eting my commits
 [![Snake eating commits](github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
+### 🎵 Music
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=someonehastakenthesename&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+### 🦖
 [![Dinosaur](assets/gifs/Dinosaur.gif)](https://en.wikipedia.org/wiki/Dinosaur_Game)
 
 [![Made with ❤️](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://dev.to/envoy_/150-badges-for-github-pnk)
