@@ -16,12 +16,12 @@ Grata benvida, tú, quén busca coñecemento. Ante ti móstrote o meu perfil, un
 <img alt="Coding Cat" align="right" src="assets/gifs/CodingCat.gif">
 
 ### 💼 Qué fago?
-* Estudando un ciclo superior de Desenvolvemento de Aplicacións Web
+* Buscando traballo tras completar a miña formación superior en Desarrollo de Aplicacións Web
 
 ### 💻 Con qué traballo?
 | Front End | Back End | Lenguaxes |
 | --------- | -------- | --------- |
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev) |
 
 [![Ubuntu enjoyer](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Git commiter](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
