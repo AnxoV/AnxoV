@@ -16,12 +16,12 @@ Greetings, you, who seeks knowledge. Before you I reveal my profile, a humble su
 <img alt="Coding Cat" align="right" src="assets/gifs/CodingCat.gif">
 
 ### 💼 What do I do?
-* I'm currently studying a degree in Web Application Development
+* Searching for a job after graduating from vocational training in Web App Development
 
 ### 💻 What do I work with?
 | Front End | Back End | Languages |
 | --------- | -------- | --------- |
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev) |
 
 [![Ubuntu enjoyer](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Git commiter](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
